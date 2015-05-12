@@ -1,4 +1,8 @@
-r_19 = normalize(((
+z;
+  v_18.z = _World2Object[2].z;
+  v_18.w = _World2Object[3].z;
+  highp vec3 tmpvar_19;
+  tmpvar_19 = normalize(((
     (v_16.xyz * norm_15.x)
    + 
     (v_17.xyz * norm_15.y)
