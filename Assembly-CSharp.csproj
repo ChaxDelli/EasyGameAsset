@@ -49,6 +49,7 @@
      <Compile Include="Assets\Assets\Script\HitMeController.cs" />
      <Compile Include="Assets\Assets\Script\LastController.cs" />
      <Compile Include="Assets\Assets\Script\ScreenStartController.cs" />
+     <Compile Include="Assets\Assets\Script\TouchController.cs" />
      <Compile Include="Assets\Assets\Script\moveScript.cs" />
      <Compile Include="Assets\Movement.cs" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
